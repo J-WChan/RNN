@@ -1,2 +1,4 @@
 # test
-dfdsfdfsdf
+깃허브 처음 써봐 연습용
+
+RNN 모델을 올려볼 예정 
