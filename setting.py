@@ -1,0 +1,1 @@
+path = "C:/Users/user/Desktop/2기_Woochan/deep_learning_basic/Oilprice/BrentOilPrices.csv"
